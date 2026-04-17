@@ -14,7 +14,7 @@ body{
 }
 
 .header,nav{
-    background-image: url(./media/banner_image.jpg);
+    background-image: url(./assets/media/banner_image.jpg);
     background-size: cover;
 }
     
@@ -392,7 +392,7 @@ nav> button{
 
 /* --------------contact-section-------------- */
 .contact-section{
-    background-image:url(./media/banner_image.jpg);
+    background-image:url(./assets/media/banner_image.jpg);
     background-size: cover;
     padding-top: 50px;
    
